@@ -3,7 +3,7 @@ import { largeNumber } from './script1.js';
 
 
 const a = largeNumber
-const b = 5;
+const b = 6;
 
 console.log(a + b);
 
